@@ -1,0 +1,5 @@
+{
+  "name": "Araç Kayıt Uygulaması",
+  "description": "Kullanıcıların araçların plaka, marka, model, işlem, ücret ve tarih bilgilerini girerek kayıt tutmalarını sağlar.",
+  "requestFramePermissions": []
+}
